@@ -20,10 +20,10 @@ Always aiming to the scalable software and to grow professionally in the technol
 
 ## Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cobidev&repo=simplefolio&bg_color=45,02aab0,00cdac&icon_color=fff&border_color=00cdac&title_color=fff&text_color=fff)](https://github.com/cobidev/simplefolio/)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cobidev&repo=gatsby-simplefolio&bg_color=45,7026B9,964ddd&icon_color=fff&border_color=964ddd&title_color=fff&text_color=fff)](https://github.com/cobidev/simplefolio/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cobiwave&repo=simplefolio&bg_color=45,02aab0,00cdac&icon_color=fff&border_color=00cdac&title_color=fff&text_color=fff)](https://github.com/cobiwave/simplefolio/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cobiwave&repo=gatsby-simplefolio&bg_color=45,7026B9,964ddd&icon_color=fff&border_color=964ddd&title_color=fff&text_color=fff)](https://github.com/cobiwave/simplefolio/)
 
 ## Let's keep in touch!
 
-- Twitter: [twitter.com/cobidev](https://twitter.com/cobidev)
+- Twitter: [twitter.com/cobiwave](https://twitter.com/cobiwave)
 - Codepen: [codepen.io/cobimr](https://codepen.io/cobimr)
