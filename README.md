@@ -1,8 +1,8 @@
 ## Hello | Hola | Bonjour | こんにちは
 
-I am passionate programmer who loves teaching and to make things work, currently focused on Frontend Development.
+I am passionate programmer. Currently focused on Frontend Development.
 
-Always aiming to the scalable software, effective solutions, and to grow professionally in the technology field.
+Always aiming to the scalable software, and to grow professionally in the technology field.
 
 ## Technologies
 
