@@ -26,4 +26,4 @@ Always aiming to the scalable software and to grow professionally in the technol
 ## Let's keep in touch!
 
 - Twitter: [twitter.com/cobiwave](https://twitter.com/cobiwave)
-- Codepen: [codepen.io/cobimr](https://codepen.io/cobimr)
+- Codepen: [codepen.io/cobiwave](https://codepen.io/cobiwave)
