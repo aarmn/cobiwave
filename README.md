@@ -2,7 +2,7 @@
 
 I am passionate programmer. Currently focused on Frontend Development.
 
-Always aiming to the scalable software, and to grow professionally in the technology field.
+Always aiming to the scalable software and to grow professionally in the technology field.
 
 ## Technologies
 
